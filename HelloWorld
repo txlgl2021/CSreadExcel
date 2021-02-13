@@ -1,0 +1,7 @@
+import os 
+import pandas as pd
+date=pd.read_excel(r"d:\lx\4500.xls",sheet_name="Sheet1")
+
+for i in data:
+    print(i)
+
